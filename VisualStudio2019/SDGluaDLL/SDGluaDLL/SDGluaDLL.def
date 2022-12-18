@@ -1,0 +1,20 @@
+﻿; SDGluaDLL.def : DLL のモジュール パラメーターを宣言します。
+
+LIBRARY
+
+EXPORTS
+    ; 明示的なエクスポートはここへ記述できます
+　    GetModuleName
+　    FileReadEx
+　    FileWriteEx
+      getFileNames
+	  getSubStr
+	  getIniFile
+	  bitor
+	  bitand
+	  bitxor
+	  bitunset
+	  bitnot
+	  bitshl
+	  bitashr
+	  bitshr

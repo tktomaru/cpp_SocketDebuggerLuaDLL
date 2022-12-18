@@ -1,0 +1,2 @@
+# SocketDebuggerLuaDLL
+SocketDebuggerのLuaの拡張DLL

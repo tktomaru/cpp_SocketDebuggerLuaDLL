@@ -1,0 +1,7 @@
+
+ライブラリ（lua5_1_2_Win32_vc6_lib.zip）のダウンロード先
+http://files.luaforge.net/releases/luabinaries/dLua5.1.2/Libraries
+
+
+
+
