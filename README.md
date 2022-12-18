@@ -1,2 +1,3 @@
 # SocketDebuggerLuaDLL
-SocketDebuggerのLuaの拡張DLL
+
+SocketDebuggerのLuaの拡張DLLを作成してみるプロジェクトです。
